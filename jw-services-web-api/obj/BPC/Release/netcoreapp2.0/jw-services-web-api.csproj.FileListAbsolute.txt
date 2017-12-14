@@ -1,0 +1,10 @@
+D:\Projects\jw-services-web-api\jw-services-web-api\bin\BPC\Release\netcoreapp2.0\jw-services-web-api.deps.json
+D:\Projects\jw-services-web-api\jw-services-web-api\bin\BPC\Release\netcoreapp2.0\jw-services-web-api.runtimeconfig.json
+D:\Projects\jw-services-web-api\jw-services-web-api\bin\BPC\Release\netcoreapp2.0\jw-services-web-api.runtimeconfig.dev.json
+D:\Projects\jw-services-web-api\jw-services-web-api\bin\BPC\Release\netcoreapp2.0\jw-services-web-api.dll
+D:\Projects\jw-services-web-api\jw-services-web-api\bin\BPC\Release\netcoreapp2.0\jw-services-web-api.pdb
+D:\Projects\jw-services-web-api\jw-services-web-api\obj\BPC\Release\netcoreapp2.0\jw-services-web-api.csproj.CoreCompileInputs.cache
+D:\Projects\jw-services-web-api\jw-services-web-api\obj\BPC\Release\netcoreapp2.0\jw-services-web-api.AssemblyInfoInputs.cache
+D:\Projects\jw-services-web-api\jw-services-web-api\obj\BPC\Release\netcoreapp2.0\jw-services-web-api.AssemblyInfo.cs
+D:\Projects\jw-services-web-api\jw-services-web-api\obj\BPC\Release\netcoreapp2.0\jw-services-web-api.dll
+D:\Projects\jw-services-web-api\jw-services-web-api\obj\BPC\Release\netcoreapp2.0\jw-services-web-api.pdb
