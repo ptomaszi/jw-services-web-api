@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jw-services-web-api", "jw-services-web-api\jw-services-web-api.csproj", "{325443FB-6F69-4FB3-B0DF-6E7ED6F6D488}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jw-services-web-api", "jw-services-web-api\jw-services-web-api.csproj", "{325443FB-6F69-4FB3-B0DF-6E7ED6F6D488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

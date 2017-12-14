@@ -12530,6 +12530,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.3",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -12544,7 +12545,7 @@
     },
     "restore": {
       "projectUniqueName": "D:\\Projects\\jw-services-web-api\\jw-services-web-api\\jw-services-web-api.csproj",
-      "projectName": "jw-services-web-api",
+      "projectName": "jw.services.web.api",
       "projectPath": "D:\\Projects\\jw-services-web-api\\jw-services-web-api\\jw-services-web-api.csproj",
       "packagesPath": "C:\\Users\\Tomasz\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\jw-services-web-api\\jw-services-web-api\\obj\\",
@@ -12582,6 +12583,10 @@
             "target": "Package",
             "version": "2.0",
             "autoReferenced": true
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "2.0.1"
           },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
